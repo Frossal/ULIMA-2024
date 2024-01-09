@@ -12,3 +12,4 @@ Luego deberá leer las instrucciones de cada módulo y realizar lo que se le pid
 ## Integrantes
 
 - Hernan Quintana
+- Luis Zegarra
